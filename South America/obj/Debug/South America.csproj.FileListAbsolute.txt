@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South America.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South_America.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South_America.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South America.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South America.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\bin\Debug\South America.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\bin\Debug\South America.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\bin\Debug\South America.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South America.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\South America\obj\Debug\South America.pdb
